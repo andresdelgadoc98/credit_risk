@@ -81,6 +81,6 @@ El modelo **Random Forest** mostró un excelente poder discriminante, con un AUC
 ## 📬 Autor
 
 **Carlos Andrés Delgado**  
-MCC. Ciencia de Datos e Inteligencia Artificial  
+MCC. Ciencia de la Computación  
 📧 [andresdelgadoc98@gmail.com](mailto:andresdelgadoc98@gmail.com)  
 💻 [LinkedIn](https://www.linkedin.com/in/carlos-andrés-delgado-9788a91a8/)
